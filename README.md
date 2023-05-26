@@ -63,3 +63,12 @@ To connect to the server we must type the following:
 ◦ Topic
 
 ◦ User
+
+## Partners 👨🏻‍💻
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/sebamiro/"><img src="https://avatars.githubusercontent.com/u/88943673?v=4" width="100px;" alt="100px"/><br /><sub><b>smiro</b></sub></a><br /><a href="https://profile.intra.42.fr/users/smiro" title="Intra 42"><img src="https://img.shields.io/badge/Barcelona-FFFFFF?style=plastic&logo=42&logoColor=000000" alt="Intra 42"/></a></td>
+    <td align="center"><a href="https://github.com/fletcher97/"><img src="https://avatars.githubusercontent.com/u/9729490?v=4" width="100px;" alt="100px"/><br /><sub><b>mgueifao/fletcher</b></sub></a><br /><a href="https://profile.intra.42.fr/users/mgueifao" title="Intra 42"><img src="https://img.shields.io/badge/Barcelona-FFFFFF?style=plastic&logo=42&logoColor=000000" alt="Intra 42"/></a></td>
+  </tr>
+</table>
